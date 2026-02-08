@@ -1,5 +1,5 @@
 …or create a new repository on the command line
-echo "# 27jan26" >> README.md
+echo "# 8feb26" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
